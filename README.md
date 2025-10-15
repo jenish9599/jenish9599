@@ -1,11 +1,11 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Jenish 👋
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <a href="https://github.com/jenish9599">
+    <img src="https://komarev.com/ghpvc/?username=jenish9599&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=blueviolet&logo=github" alt="GitHub Followers"/>
+  <a href="https://github.com/jenish9599?tab=followers">
+    <img src="https://img.shields.io/github/followers/jenish9599?label=Followers&style=flat-square&color=blueviolet&logo=github" alt="GitHub Followers"/>
   </a>
 </p>
 
@@ -61,19 +61,19 @@ Here are some of the technologies I'm proficient in:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jenish9599&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
 </p>
 <br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenish9599&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&langs_count=6" />
   </a>
 </p>
 <br>
 <p align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula&hide_border=true">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=jenish9599&theme=dracula&hide_border=true">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenish9599&theme=dracula&hide_border=true" alt="GitHub Streak" />
     </a>
 </p>
 
