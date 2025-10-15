@@ -82,7 +82,7 @@ Here are some of the technologies I'm proficient in:
 ### 🔗 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_LINKEDIN" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR_TWITTER" height="30" width="40" /></a>
-<a href="mailto:YOUR_EMAIL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="YOUR_EMAIL" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jenish9599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jenish9599" height="30" width="40" /></a>
+<a href="https://twitter.com/jenish9599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jenish9599" height="30" width="40" /></a>
+<a href="mailto:pateljenish813@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="pateljenish813@gmail.com" height="30" width="40" /></a>
 </p>
